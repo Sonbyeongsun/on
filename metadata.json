@@ -1,0 +1,5 @@
+{
+  "name": "마음 충전소 (Mind Recharge Station)",
+  "description": "학업에 지친 학생들을 위해 따뜻한 응원 문구를 생성해주는 앱입니다. 버튼을 눌러 오늘의 응원을 받아보세요.",
+  "requestFramePermissions": []
+}
